@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi , I am Sreelekshmi Harikumar 
 
 <!--
 **sreelekshmi-harikumar/sreelekshmi-harikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me :
+    I am currently in my third year of engineering ( CS ,  btw). 
+    To be fair,I know my github may not be ideal for a cs student but since I have started my degree I do can say I have come a long way. 
+    Anyways, my current interest is learning lua .
+    Toodles, bye
