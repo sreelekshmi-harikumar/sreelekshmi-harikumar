@@ -1,4 +1,4 @@
-## Hey, I'm Sreelekshmi Harikumar 
+## Hey, I'm Sreelekshmi
 
 <!--
 **sreelekshmi-harikumar/sreelekshmi-harikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
