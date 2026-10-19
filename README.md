@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 About me : <br>
 I am currently in my third year of engineering ( CS ,  btw). <br>
-To be fair,I know my github may not be ideal for a cs student but since I have started my degree I sure have explored different coding languages - python,C, Java etc,tweaked with a to-do list,participated in hackathons. <br>
-Anyways, currently I spend my time and energy into learning lua .<br>
+and I like chaya :)<br>
 Toodles, bye 
